@@ -1,5 +1,9 @@
 ## Hi there 👋
-
+- :mortar_board: I’m currently learning at CMC University
+- 😄 Pronouns: he/him
+- :mag: My email: leanhminhh04@gmail.com
+  
+:notes: :notes:  :notes: :notes:
 <!--
 **MinhLeAnh/MinhLeAnh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
